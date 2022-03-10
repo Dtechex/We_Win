@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/dashboard_yellow_gradient_btn_bg.xml" value="0.40729166666666666" />
+        <entry key="app/src/main/res/drawable-v24/green_violet_gradient_fastparity.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/bottom_nav_selected_behaviour.xml" value="0.40729166666666666" />
+        <entry key="app/src/main/res/drawable/btn_bg.xml" value="0.18425925925925926" />
+        <entry key="app/src/main/res/drawable/dahboard_top_card_bg.xml" value="0.40729166666666666" />
+        <entry key="app/src/main/res/drawable/deck_of_card_style.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/edit_text_bg.xml" value="0.18425925925925926" />
+        <entry key="app/src/main/res/drawable/green_violet_gradient_fastparity.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/green_violet_gradient_fastparity2.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/recharge_bottom_icon.xml" value="0.40729166666666666" />
+        <entry key="app/src/main/res/drawable/recharge_icon.xml" value="0.40729166666666666" />
+        <entry key="app/src/main/res/drawable/red_violet_gradient_fastparity.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/white_btn_bg.xml" value="0.40729166666666666" />
+        <entry key="app/src/main/res/drawable/yellow_gradient_btn_bg.xml" value="0.40729166666666666" />
+        <entry key="app/src/main/res/layout/activity_andar_bahar_game.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/layout/activity_post_login.xml" value="0.12447916666666667" />
+        <entry key="app/src/main/res/layout/activity_pre_login.xml" value="0.2453125" />
+        <entry key="app/src/main/res/layout/andar_bahar_bottom_bidding_recycler_layout.xml" value="0.819935691318328" />
+        <entry key="app/src/main/res/layout/andar_bahar_order_bottom_sheet_layout.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/custom_card_view.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/dashboard_games_list_recycler_layout.xml" value="0.39114583333333336" />
+        <entry key="app/src/main/res/layout/fragment_andar_bahar.xml" value="0.35368043087971274" />
+        <entry key="app/src/main/res/layout/fragment_andar_bahar_bottom_my_order.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_andar_bahar_bottom_order_and_result.xml" value="0.39114583333333336" />
+        <entry key="app/src/main/res/layout/fragment_andar_bahar_bottom_results.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_andar_bahar_bottom_resuts_and_my_order.xml" value="0.39114583333333336" />
+        <entry key="app/src/main/res/layout/fragment_base_dialog.xml" value="0.12447916666666667" />
+        <entry key="app/src/main/res/layout/fragment_common_profile_update.xml" value="0.39114583333333336" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/fragment_dice.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_fast_parity.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.12447916666666667" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_my_profile.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.24153846153846154" />
+        <entry key="app/src/main/res/layout/fragment_update_profile.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/game_result_recycler_layout.xml" value="1.1" />
+        <entry key="app/src/main/res/layout/history_card_andar_bahar_custom_view.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/my_order_recycler_layout.xml" value="0.67" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.12447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

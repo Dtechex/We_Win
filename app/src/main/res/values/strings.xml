@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">We Win</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="india_ph_code">+91</string>
+    <string name="input_mobile_number">Input Mobile Phone Number</string>
+    <string name="verification_code">OTP</string>
+    <string name="get_verification_code">Get Verification Code</string>
+    <string name="Password">Password (≥6 characters)</string>
+    <string name="feedback">Feedback</string>
+    <string name="not_registered"><![CDATA[Not Yet Registered? <font color=#0000FF>Register Now</font>]]></string>
+    <string name="registered_user"><![CDATA[Registered account? <font color=#0000FF>Login</font>]]></string>
+
+    <string name="period">Period</string>
+    <string name="count_down">Count Down</string>
+    <string name="andar">Andar</string>
+    <string name="bahar">Bahar</string>
+    <string name="tie">Tie</string>
+
+    <string name="buy">Buy</string>
+    <string name="confirm">Confirm</string>
+    <string name="tabResults">Results</string>
+    <string name="tabMyOrders">My Orders</string>
+    <string name="join_green">Join Green</string>
+    <string name="join_violet">Join Violet</string>
+    <string name="join_red">Join Red</string>
+
+    <string name="invite">Invite</string>
+    <string name="recharge">Recharge</string>
+    <string name="my">My</string>
+    <string name="picture">picture</string>
+    <string name="nickName">nickName</string>
+    <string name="password">password</string>
+</resources>
